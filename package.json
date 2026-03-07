@@ -1,0 +1,34 @@
+{
+  "name": "com.scoredrop.core",
+  "version": "1.0.0",
+  "displayName": "ScoreDrop Leaderboard",
+  "description": "Simple and powerful leaderboard system for Unity games. Integrates with ScoreDrop API.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://leaderboard-game.vercel.app/docs_api.html",
+  "changelogUrl": "https://leaderboard-game.vercel.app/changelog",
+  "licensesUrl": "https://leaderboard-game.vercel.app/terms.html",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "leaderboard",
+    "score",
+    "ranking",
+    "api",
+    "online",
+    "multiplayer"
+  ],
+  "author": {
+    "name": "ScoreDrop",
+    "email": "Guardabarrancoestudioapp@gmail.com",
+    "url": "https://leaderboard-game.vercel.app"
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Contains a complete example of ScoreDrop integration",
+      "path": "Samples~/DemoScene"
+    }
+  ]
+}
