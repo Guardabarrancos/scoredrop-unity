@@ -2,7 +2,7 @@ ScoreDrop Unity Package
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Unity Version](https://img.shields.io/badge/Unity-2020.3%2B-blue)](https://unity.com)
-[![GitHub Release](https://img.shields.io/github/v/release/Guardabarrancos/scoredrop-unity)](https://github.com/Guardabarrancoestudio/scoredrop-unity/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Guardabarrancos/scoredrop-unity)](https://github.com/Guardabarrancos/scoredrop-unity/releases)
 
 Official Unity integration for [ScoreDrop](https://leaderboard-game.vercel.app) - A simple, modern leaderboard API for indie games.
 
