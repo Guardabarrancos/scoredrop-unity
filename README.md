@@ -19,7 +19,7 @@ Installation
 Via Unity Package Manager (UPM)
 1. Open Unity and go to `Window > Package Manager`
 2. Click the `+` button and select "Add package from git URL"
-3. Enter: `https://github.com/Guardabarrancoestudio/scoredrop-unity.git`
+3. Enter: `https://github.com/Guardabarrancos/scoredrop-unity.git`
 
 Manual Installation
 1. Download the latest release from [Releases](https://github.com/Guardabarrancos/scoredrop-unity/releases)
